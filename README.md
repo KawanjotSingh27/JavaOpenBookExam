@@ -96,4 +96,4 @@ java -cp .:sqlite-jdbc-3.45.3.0.jar com.weather.WeatherMain
 java -cp .:sqlite-jdbc-3.45.3.0.jar com.portal.PortalMain
 ```
 
-*Submitted by: AJ | Section: 6AIML-VI(123) | Session: Jan–June 2026*
+*Submitted by: Kawanjot Singh Gujral | Section: 6AIML-VI(C) | Session: Jan–June 2026*
